@@ -1,4 +1,4 @@
-package reid;
+package reid_v01;
 
 public abstract class VertexScore implements Comparable<VertexScore> {
 

@@ -1,0 +1,42 @@
+Re-Identifiation (ReID) Project (Version 0.1; 10/25/2011)
+==========================================================
+
+* This directory contains the following:
+
+  papers/
+	- A KDD'11 paper and LLNL poster on this project
+
+  graphs/ 
+	- Contains two IM data graphs from the Yahoo!
+	- One is used as the target (anonymized) graph and the other as the reference (known) graph
+
+  data/
+	- Contains sample IM data used by the ReID code
+
+  src/
+	- Contains the Java source code for the project
+
+  bin/
+	- Contains the Javac object code
+
+
+* To run the code do the following:
+
+  1. Compile the code in the src directory by simply running javac.
+	javac -d bin src/*.java
+
+  2.  To run the code
+	- Check out the main routine and its comments in src/IdentityResolution.java
+	- The code has many bells and whistles.  For those, check out the main routines in these files:
+		src/CalculateFeatures.java
+		src/GenerateEdgeGuesses.java
+		src/GenerateFeatures.java
+		src/IDResPostEdgeProcess.java
+		src/IDResPostProcess.java
+		src/RankedRoleFinder.java
+		src/RoleIDFeatureCalculator.java
+		src/RoleIDItertaion.java
+
+* Disclaimer: This is rather new research prototype code so it doesn't have all the niceties of a mature code.
+
+

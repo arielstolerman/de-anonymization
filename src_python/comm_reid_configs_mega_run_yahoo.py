@@ -8,7 +8,7 @@ import community_matcher
 # ======================
 
 # graphs and feature tables
-name_prefix = "./data/yahoo/yahoo-d00-d01"
+name_prefix = "../data/yahoo/yahoo-d00-d01"
 conf.ref_graph_file = name_prefix+"-reference-graph.txt"
 conf.target_graph_file = name_prefix+"-target-graph.txt"
 conf.feature_names_file = name_prefix+"-features.txt"

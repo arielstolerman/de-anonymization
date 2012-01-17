@@ -8,7 +8,7 @@ import community_matcher
 # ======================
 
 # graphs and feature tables
-name_prefix = "./data/sms-wire-reduced/sms-wire-reduced"
+name_prefix = "../data/sms-wire-reduced/sms-wire-reduced"
 conf.ref_graph_file = name_prefix+"-reference-graph.txt"
 conf.target_graph_file = name_prefix+"-target-graph.txt"
 conf.feature_names_file = name_prefix+"-features.txt"

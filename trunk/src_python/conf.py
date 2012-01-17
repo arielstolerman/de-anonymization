@@ -47,47 +47,47 @@ nodes_pool_ratio = 0.1
 
 
 #at&t data here
-#ref_graph_file = "./data/allawsv-anon.2011-09"
-#target_graph_file = "./data/allsms-anon.2011-09"
-#ref_feature_file = "./data/sms_wire-reference.txt"
-#target_feature_file = "./data/sms_wire-target.txt"
+#ref_graph_file = "../data/allawsv-anon.2011-09"
+#target_graph_file = "../data/allsms-anon.2011-09"
+#ref_feature_file = "../data/sms_wire-reference.txt"
+#target_feature_file = "../data/sms_wire-target.txt"
 
-#ref_graph_file = "./data/yahoo/yahoo-d00-d01-reference-graph.txt"
+#ref_graph_file = "../data/yahoo/yahoo-d00-d01-reference-graph.txt"
 #target_graph_file = "data/yahoo/yahoo-d00-d01-target-graph.txt"
-#feature_names_file = "./data/yahoo/yahoo-d00-d01-features.txt"
-#ref_feature_file = "./data/yahoo/yahoo-d00-d01-reference.txt"
-#target_feature_file = "./data/yahoo/yahoo-d00-d01-target.txt"
+#feature_names_file = "../data/yahoo/yahoo-d00-d01-features.txt"
+#ref_feature_file = "../data/yahoo/yahoo-d00-d01-reference.txt"
+#target_feature_file = "../data/yahoo/yahoo-d00-d01-target.txt"
 
-ref_graph_file = './data/d-sdm.csv'
-ref_feature_file='./data/kdd_sdm-reference.txt'
-target_graph_file='./data/d-sigkdd.csv'
-target_feature_file = './data/kdd_sdm-target.txt'
+ref_graph_file = '../data/d-sdm.csv'
+ref_feature_file='../data/kdd_sdm-reference.txt'
+target_graph_file='../data/d-sigkdd.csv'
+target_feature_file = '../data/kdd_sdm-target.txt'
 
-#target_graph_file = './data/d-vldb.csv'
-#target_feature_file = './data/vldb_sigmod-target.txt'
-#ref_graph_file = './data/d-sigmod.csv'
-#ref_feature_file = './data/vldb_sigmod-reference.txt'
+#target_graph_file = '../data/d-vldb.csv'
+#target_feature_file = '../data/vldb_sigmod-target.txt'
+#ref_graph_file = '../data/d-sigmod.csv'
+#ref_feature_file = '../data/vldb_sigmod-reference.txt'
 
-#ref_graph_file = "./data/d-cikm.csv"
-#ref_feature_file = "./data/kdd_cikm-reference.txt"
-#target_graph_file = "./data/d-sigkdd.csv"
-#target_feature_file = "./data/kdd_cikm-target.txt"
+#ref_graph_file = "../data/d-cikm.csv"
+#ref_feature_file = "../data/kdd_cikm-reference.txt"
+#target_graph_file = "../data/d-sigkdd.csv"
+#target_feature_file = "../data/kdd_cikm-target.txt"
 
-#target_graph_file = "./data/d-cikm.csv"
-#target_feature_file = "./data/cikm_icdm-reference.txt"
-#ref_graph_file = "./data/d-icdm.csv"
-#ref_feature_file = "./data/cikm_icdm-target.txt"
+#target_graph_file = "../data/d-cikm.csv"
+#target_feature_file = "../data/cikm_icdm-reference.txt"
+#ref_graph_file = "../data/d-icdm.csv"
+#ref_feature_file = "../data/cikm_icdm-target.txt"
 
-#ref_graph_file =    "./data/d-sigkdd.csv" 
-#ref_feature_file =  "./data/co_author-reference.txt"
-#target_graph_file = "./data/d-icdm.csv"
-#target_feature_file = "./data/co_author-target.txt" 
+#ref_graph_file =    "../data/d-sigkdd.csv" 
+#ref_feature_file =  "../data/co_author-reference.txt"
+#target_graph_file = "../data/d-icdm.csv"
+#target_feature_file = "../data/co_author-target.txt" 
 
 # all new yahoo data
 ####################
 # d00-d01
-#ref_graph_file = "./data/yahoo/yahoo-d00-d01-reference-graph.txt"
+#ref_graph_file = "../data/yahoo/yahoo-d00-d01-reference-graph.txt"
 #target_graph_file = "data/yahoo/yahoo-d00-d01-target-graph.txt"
-#feature_names_file = "./data/yahoo/yahoo-d00-d01-features.txt"
-#ref_feature_file = "./data/yahoo/yahoo-d00-d01-reference.txt"
-#target_feature_file = "./data/yahoo/yahoo-d00-d01-target.txt"
+#feature_names_file = "../data/yahoo/yahoo-d00-d01-features.txt"
+#ref_feature_file = "../data/yahoo/yahoo-d00-d01-reference.txt"
+#target_feature_file = "../data/yahoo/yahoo-d00-d01-target.txt"

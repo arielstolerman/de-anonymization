@@ -177,6 +177,7 @@ public class Graph implements Serializable {
 			}
 			res += "\n";
 		}
+		res += "\n";
 		System.out.println("total nodes: "+(node-1));
 		
 		// remove last newline
